@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web-apps with geo/map stuff
+- 🌱 I’m currently learning Clojure 🥰
+- 📫 How to reach me: https://www.simon-neutert.de
+- ⚡ Fun fact: I am a self-taught developer 😅
+- 🚴 I love cycling!
+
 <!--
 **simonneutert/simonneutert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
