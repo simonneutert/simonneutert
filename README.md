@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web-apps with geo/map stuff
+- 🔭 I’m currently working on web-apps with geo/map stuff and some web scrapers
 - 🌱 I’m currently learning Clojure 🥰
 - 📫 How to reach me: https://www.simon-neutert.de
-- ⚡ Fun fact: I am a self-taught developer 😅
+- ⚡ Fun fact: I went to school with [Bobby Tables](https://lmgtfy.app/?q=bobby+tables+sql+injection), wow!
 - 🚴 I love cycling!
 
 <!--
