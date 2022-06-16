@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I went to school with [Bobby Tables](https://lmgtfy.app/?q=bobby+tables+sql+injection), wow!
 - 🚴 I love cycling!
 
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=simonneutert&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **simonneutert/simonneutert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
