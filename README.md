@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web-apps with geo/map stuff and some web scrapers
 - 🌱 I’m currently learning Clojure 🥰 
-- 📫 How to reach me: https://www.simon-neutert.de and [@LinkedIn](https://www.linkedin.com/in/simon-neutert/)
+- 📫 How to reach me: https://www.simon-neutert.de and [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
 - ⚡ Fun fact: I went to school with [Bobby Tables](https://lmgtfy.app/?q=bobby+tables+sql+injection), wow!
 - 🚴 I love cycling!
 
