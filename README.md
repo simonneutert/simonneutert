@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I enjoy writing web-apps and grow my bot army
+- 🔭 I enjoy writing web-apps and growing my bot army
 - 😍 I'm passionate about Ruby
 - 🌱 I’m currently learning Clojure 🥰 
 - 📫 How to reach me: https://www.simon-neutert.de and [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
