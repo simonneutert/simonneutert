@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I enjoy writing web-apps and growing my bot army
-- 😍 I'm passionate about Ruby
+- 😍 I'm passionate about Ruby, especially Roda
 - 🌱 I’m currently learning Clojure 🥰 
 - 📫 How to reach me: https://www.simon-neutert.de and [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
 - ⚡ Fun fact: I went to school with [Bobby Tables](https://lmgtfy.app/?q=bobby+tables+sql+injection), wow!
