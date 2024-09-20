@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I enjoy writing web-apps and growing my bot army
-- 😍 I'm passionate about Ruby and prefer Roda over Rails 🤓
+- 😍 I'm passionate about Ruby! #teamroda 🤓
 - 🌱 I’d love to work more with anything Clojure 🤙🥰
-- 📫 How to reach me: https://www.simon-neutert.de and [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
+- 📫 How to reach me: [https://www.simon-neutert.de](https://www.simon-neutert.de) and [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
 
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=simonneutert&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
