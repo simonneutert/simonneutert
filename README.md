@@ -7,7 +7,7 @@
 
 [![my GitHub stats](https://github-readme-stats.vercel.app/api?username=simonneutert&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonneutert&hide=jupyter%20notebook,html,css,sass,php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonneutert&hide=jupyter%20notebook,html,css,sass,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **simonneutert/simonneutert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
