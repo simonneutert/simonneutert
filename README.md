@@ -14,7 +14,7 @@ There's a lot of public code in my profile for you to browse through 😅 but I 
 ## 📫 How to reach me
 
 - [@simon-neutert.de](https://www.simon-neutert.de)
-- [@Linkedin](https://www.linkedin.com/in/simon-neutert/)
+- [@LinkedIn](https://www.linkedin.com/in/simon-neutert/)
 
 ---
 
