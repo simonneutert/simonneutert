@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I enjoy writing web-apps and growing my bot army
+- 🔭 I enjoy writing web-apps and growing my bot army 🤖
 - 😍 I am passionate about Ruby! #teamroda 🤓
-- 🌱 I’d love to work more with anything LISP (Clojure 🤙🥰)
+- 🌱 Clojure tickles my fancy 🤙🥰
 
 ## Development
 
