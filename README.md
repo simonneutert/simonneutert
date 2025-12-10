@@ -18,6 +18,6 @@ There's a lot of public code in my profile for you to browse through 😅 but I 
 
 ---
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=simonneutert&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my GitHub stats](https://ghstats.simon-neutert.de/api?username=simonneutert&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonneutert&hide=jupyter%20notebook,html,css,sass,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://ghstats.simon-neutert.de/api/top-langs/?username=simonneutert&hide=jupyter%20notebook,html,css,sass,php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
