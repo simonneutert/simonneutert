@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I enjoy writing web-apps and growing my bot army 🤖
-- 😍 I am passionate about Ruby! #teamroda 🤓
-- 🌱 Clojure tickles my fancy 🤙🥰
+- 🌝 I enjoy writing code for bits and giggles!
+- 😍 Ruby is my passion! #teamroda
+- 🤓 Clojure tickles my fancy.
+- 🥸 ~~JavaScript~~TypeScript pays the bills.
 
 ## Development
 
